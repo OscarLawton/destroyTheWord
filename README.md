@@ -1,2 +1,2 @@
-# destroyTheWord
+# destroyTheWorld
 An app that destroys the world...
